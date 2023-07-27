@@ -1,7 +1,6 @@
 package mx.com.swing.modelo;
 
 import java.awt.Color;
-import java.awt.Desktop.Action;
 import java.awt.event.ActionEvent;
 
 import javax.swing.AbstractAction;
